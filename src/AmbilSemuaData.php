@@ -9,5 +9,3 @@ $data = mysqli_query($connection,"SELECT kota_kabupaten.nama as kota_kabupaten,
                                 JOIN kecamatan on kecamatan.id = data_pekerjaan.kecamatan_id 
                                 JOIN kelurahan on kelurahan.id = data_pekerjaan.kelurahan_id 
                                 JOIN jenis_pekerjaan on jenis_pekerjaan.id = data_pekerjaan.jenis_pekerjaan_id ORDER BY data_pekerjaan.id");
-
-jsonProcessor($data);
