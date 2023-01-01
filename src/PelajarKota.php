@@ -7,5 +7,5 @@ $PelajarKotaData = mysqli_query($connection,"SELECT SUM(data_pekerjaan.jumlah) a
                                   WHERE data_pekerjaan.jenis_pekerjaan_id = 3   
                                   GROUP BY data_pekerjaan.kota_kabupaten_id ORDER BY jumlah DESC ");
                                   
-jsonProcessor($KerjaanTerbanyakKotaData);
+jsonProcessor($PelajarKotaData);
 
