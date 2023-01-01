@@ -1,4 +1,0 @@
-grafik :
-1. menampilkan data pekerjaan terbanyak berdasarkan kota dan/atau kecamatan
-2. mengetahui 10 pekerjaan terbanyak dijakarta
-3. 

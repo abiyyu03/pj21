@@ -1,2 +1,3 @@
 <?php
-$connection = mysqli_connect("localhost","root","abiyyucakra99","db_penduduk");
+include_once 'config.php';
+$connection = mysqli_connect($dbHost,$dbUsername,$dbPassword,$dbName);
