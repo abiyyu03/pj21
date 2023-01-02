@@ -20,7 +20,7 @@ require_once('src/AmbilSemuaData.php');
         <div class="container mb-4">
             <div class="mt-4 mb-1 text-center">
                 <h3>Data Penduduk Jakarta Berdasarkan Pekerjaan Tahun 2021</h3>
-                <p>Sumber Data : <a target="_blank" href="https://data.jakarta.go.id/read-resource/json/data-terpadu-kesejahteraan-sosial-dtks-provinsi-dki-jakarta/bb5a2ccde5ca7f1dd3c82d1b29fdfda1">Open Data DTKS Jakarta</a></p>
+                <p>Sumber Data : <a target="_blank" href="https://data.jakarta.go.id/dataset/jumlah-penduduk-dki-jakarta-berdasarkan-pekerjaan/resource/e2dd9744007ca4dd1898eabe2ddacb83">Open Data Jakarta</a></p>
             </div>
             <div class="row">
                 <div class="col-12">
