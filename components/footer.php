@@ -7,7 +7,7 @@
             </p>
         </div>
         <div class="col-md-6 col-lg-6 col-sm-12">
-            <a href="https://github.com/abiyyu03/jd21" target="_blank" class="text-secondary text-decoration-none small"><i class="fab fa-github"></i> Get Source Code</a>
+            <a href="https://github.com/abiyyu03/pj21" target="_blank" class="text-secondary text-decoration-none small"><i class="fab fa-github"></i> Get Source Code</a>
         </div>
     </div>
 </footer>
